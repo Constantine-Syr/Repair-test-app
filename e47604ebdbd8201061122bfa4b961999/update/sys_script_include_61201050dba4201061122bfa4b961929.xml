@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>global.ClaimsUtils</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>ClaimsUtils</name>
+        <script><![CDATA[var ClaimsUtils = Class.create();
+ClaimsUtils.prototype = {
+    initialize: function() {
+    },
+validateEmailAddress: function(emailStr) {
+    emailStr = emailStr + '';
+    if(emailStr.match(/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/)){
+        return true;
+    }
+    else return false;
+} };]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-13 20:14:31</sys_created_on>
+        <sys_id>61201050dba4201061122bfa4b961929</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>ClaimsUtils</sys_name>
+        <sys_package display_value="Repair" source="e47604ebdbd8201061122bfa4b961999">e47604ebdbd8201061122bfa4b961999</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Repair">e47604ebdbd8201061122bfa4b961999</sys_scope>
+        <sys_update_name>sys_script_include_61201050dba4201061122bfa4b961929</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-15 19:18:32</sys_updated_on>
+    </sys_script_include>
+</record_update>

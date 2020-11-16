@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>System Generated Rule</description>
+        <name>null.u_when_needed</name>
+        <operation display_value="edit_task_relations">b718b0e2c0a80204005b2705d3b6a0a0</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-15 16:14:00</sys_created_on>
+        <sys_id>06e3f978db64a01061122bfa4b9619d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>null.u_when_needed</sys_name>
+        <sys_package display_value="Repair" source="e47604ebdbd8201061122bfa4b961999">e47604ebdbd8201061122bfa4b961999</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Repair">e47604ebdbd8201061122bfa4b961999</sys_scope>
+        <sys_update_name>sys_security_acl_06e3f978db64a01061122bfa4b9619d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-15 16:14:00</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Repair">e47604ebdbd8201061122bfa4b961999</application>
+        <file_path/>
+        <instance_id>3fc38b3cdbafd7c40e785d00cf961909</instance_id>
+        <instance_name>dev66938</instance_name>
+        <name>sys_security_acl_06e3f978db64a01061122bfa4b9619d1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>System Generated Rule</description><name>null.u_when_needed</name><operation display_value="edit_task_relations">b718b0e2c0a80204005b2705d3b6a0a0</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-15 16:14:00</sys_created_on><sys_id>06e3f978db64a01061122bfa4b9619d1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>null.u_when_needed</sys_name><sys_package display_value="Repair" source="e47604ebdbd8201061122bfa4b961999">e47604ebdbd8201061122bfa4b961999</sys_package><sys_policy/><sys_scope display_value="Repair">e47604ebdbd8201061122bfa4b961999</sys_scope><sys_update_name>sys_security_acl_06e3f978db64a01061122bfa4b9619d1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-15 16:14:00</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1200117151</payload_hash>
+        <record_name>null.u_when_needed</record_name>
+        <reverted_from/>
+        <source>fc98c0a3db1c201061122bfa4b9619cd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-15 16:14:00</sys_created_on>
+        <sys_id>8ee3f978db64a01061122bfa4b9619d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175ccaf463a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-15 16:14:00</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>c6e3f9781b64a0101d090363321f81d3</update_guid>
+        <update_guid_history>c6e3f9781b64a0101d090363321f81d3:1200117151</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-15 19:13:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>0aff49ac162a46db80c6de267072c559</sys_id>
+        <sys_metadata>06e3f978db64a01061122bfa4b9619d1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>null.u_when_needed</sys_name>
+        <sys_package display_value="Repair" source="e47604ebdbd8201061122bfa4b961999">e47604ebdbd8201061122bfa4b961999</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Repair">e47604ebdbd8201061122bfa4b961999</sys_scope>
+        <sys_scope_delete display_value="">07f6a5752dc947c080cfa8396c4bc8d1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_06e3f978db64a01061122bfa4b9619d1</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_06e3f978db64a01061122bfa4b9619d1">8ee3f978db64a01061122bfa4b9619d3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-15 19:13:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_requested_for_not_found" label="Requested for not found" language="en" table="u_repair">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_requested_for_not_found</element>
+            <help/>
+            <hint/>
+            <label>Requested for not found</label>
+            <language>en</language>
+            <name>u_repair</name>
+            <plural>Requested for not founds</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-13 17:17:09</sys_created_on>
+            <sys_id>e72feb0cdb24201061122bfa4b961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Requested for not found</sys_name>
+            <sys_package display_value="Repair" source="e47604ebdbd8201061122bfa4b961999">e47604ebdbd8201061122bfa4b961999</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Repair">e47604ebdbd8201061122bfa4b961999</sys_scope>
+            <sys_update_name>sys_documentation_u_repair_u_requested_for_not_found_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-13 17:17:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

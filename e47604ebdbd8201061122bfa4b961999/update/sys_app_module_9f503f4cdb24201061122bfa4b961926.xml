@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Repair">63749da3db10601061122bfa4b9619ae</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Create a new record in Repair table</hint>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>u_repair</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>repair_callcenter,repair_manager,repair_admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-13 17:28:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9f503f4cdb24201061122bfa4b961926</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Repair" source="e47604ebdbd8201061122bfa4b961999">e47604ebdbd8201061122bfa4b961999</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Repair">e47604ebdbd8201061122bfa4b961999</sys_scope>
+        <sys_update_name>sys_app_module_9f503f4cdb24201061122bfa4b961926</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-13 17:28:31</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

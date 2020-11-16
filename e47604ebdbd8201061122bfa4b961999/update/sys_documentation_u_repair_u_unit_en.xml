@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_unit" label="Unit" language="en" table="u_repair">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_unit</element>
+            <help/>
+            <hint/>
+            <label>Unit</label>
+            <language>en</language>
+            <name>u_repair</name>
+            <plural>Units</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-13 17:17:09</sys_created_on>
+            <sys_id>6f2fab0cdb24201061122bfa4b9619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Unit</sys_name>
+            <sys_package display_value="Repair" source="e47604ebdbd8201061122bfa4b961999">e47604ebdbd8201061122bfa4b961999</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Repair">e47604ebdbd8201061122bfa4b961999</sys_scope>
+            <sys_update_name>sys_documentation_u_repair_u_unit_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-13 17:17:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

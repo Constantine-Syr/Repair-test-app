@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="repair_callcenter" name="repair_callcenter">ab17c823db1c201061122bfa4b961951</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-11 11:06:18</sys_created_on>
+        <sys_id>6317c823db1c201061122bfa4b961954</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ab17c823db1c201061122bfa4b961951</sys_name>
+        <sys_package display_value="Repair" source="e47604ebdbd8201061122bfa4b961999">e47604ebdbd8201061122bfa4b961999</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Repair">e47604ebdbd8201061122bfa4b961999</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6317c823db1c201061122bfa4b961954</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-11 11:06:18</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
